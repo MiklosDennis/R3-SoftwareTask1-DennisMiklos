@@ -11,7 +11,7 @@ clockwise or counter clockwise.
 To validate 7-segment display results press code and then press serial monitor. 
 The serial monitor will display the mapped potentiometer values.
 
-The circuit and software procudres are the follwoing:
+The circuit and software procedures are the follwoing:
 1. Declare digital pins 3-10 as outputs. These pins will be used to send
    the signals to the CD4511 decoders.
 2. Inside the loop function the first step is to read the potentionmeter value.
