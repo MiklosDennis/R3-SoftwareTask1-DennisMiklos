@@ -1,6 +1,6 @@
 /* 
 Created by: Dennis Miklos
-Date: 9/29/2021
+Date: 9/28/2021
 Description: Maps potentiometer resistance value
 to 0-99 and displays it using two 7-segment (Cathode) dislays.
 */
